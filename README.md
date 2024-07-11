@@ -9,7 +9,7 @@
 
 #### The specified grammar:
 
-![]()
+![](https://github.com/MikhailCherepanovD/LLGrammarAnalyzer/blob/master/GitHubResources/Grammar.png)
 
 ## To install:
 
@@ -34,4 +34,4 @@ make
 
 ### Documentation on Russian language:
 
-[here](https://github.com/MikhailCherepanovD/RegExpAnalyzer/blob/master/GitHubResources/Documentation.pdf)
+[here](https://github.com/MikhailCherepanovD/LLGrammarAnalyzer/blob/master/GitHubResources/Documentation.pdf)
