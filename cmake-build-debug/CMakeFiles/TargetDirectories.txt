@@ -1,0 +1,3 @@
+/home/mikhail/Разработка/Clion/Lab5Grammar/cmake-build-debug/CMakeFiles/Lab5Grammar.dir
+/home/mikhail/Разработка/Clion/Lab5Grammar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mikhail/Разработка/Clion/Lab5Grammar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
